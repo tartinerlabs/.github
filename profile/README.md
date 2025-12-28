@@ -4,24 +4,18 @@
 
 ---
 
-## About Us
-*Tartiner* means *"to spread"* in French.  
-At Tartiner Labs, we envision our software and services spreading across the globe — connecting people, ideas, and businesses everywhere.
+## About
 
-We believe great technology should be simple, powerful, and made to grow beyond borders.
+A project by **Ru Chern CHONG**.
+
+*Tartiner* means *"to spread"* in French — we build software designed to spread globally, connecting people and businesses across the world.
 
 ## What We Do
-- Build scalable, user-friendly software
-- Create modern web and cloud solutions
-- Turn ideas into products that can reach the world
 
-## Our Belief
-Good ideas deserve to be shared — and the right technology helps them travel far.
-
-## Stay Connected
-- 🌐 [Visit our website](https://tartinerlabs.com)
-- 🛠️ Explore our projects here on GitHub
+- Simple, scalable products
+- Modern web and cloud solutions
+- Software built for long-term ownership
 
 ---
 
-> **Tartiner Labs — Building software that connects.**
+🌐 [tartinerlabs.com](https://tartinerlabs.com) · [GitHub](https://github.com/tartinerlabs)
